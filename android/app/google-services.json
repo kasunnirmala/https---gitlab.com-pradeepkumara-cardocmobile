@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "799448347689",
+    "project_id": "cardoc-391614",
+    "storage_bucket": "cardoc-391614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799448347689:android:a1df3a80e4133512f01838",
+        "android_client_info": {
+          "package_name": "com.example.cardoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799448347689-cp6d8h08jb2kd0okdk8dgliq06v718tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTQQH4iziWoHJL_zyefWvJrhCEofYaifM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799448347689-cp6d8h08jb2kd0okdk8dgliq06v718tt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799448347689-hngi7u9n2e8ud1ao2hlfq8hmmter49nt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cardoc-ios",
+                "app_store_id": "123"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799448347689:android:cd40365a68fa1d56f01838",
+        "android_client_info": {
+          "package_name": "com.example.cardoc_lk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799448347689-8ccichu6r0mr1igqg1vlioma4pjlbsuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cardoc_lk",
+            "certificate_hash": "ce975ed41804bc59310425b45b742dee4885b80a"
+          }
+        },
+        {
+          "client_id": "799448347689-cp6d8h08jb2kd0okdk8dgliq06v718tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTQQH4iziWoHJL_zyefWvJrhCEofYaifM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799448347689-cp6d8h08jb2kd0okdk8dgliq06v718tt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799448347689-hngi7u9n2e8ud1ao2hlfq8hmmter49nt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cardoc-ios",
+                "app_store_id": "123"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

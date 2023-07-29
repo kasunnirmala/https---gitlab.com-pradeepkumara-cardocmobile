@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>799448347689-t5csfup7it71en13n1ao77s0g80eou51.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.799448347689-t5csfup7it71en13n1ao77s0g80eou51</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>799448347689-8ccichu6r0mr1igqg1vlioma4pjlbsuk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBeHAj0dj_QjniDMzQKyGEBElUyBUoxTog</string>
+	<key>GCM_SENDER_ID</key>
+	<string>799448347689</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cardoc.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>cardoc-391614</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cardoc-391614.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:799448347689:ios:383634737247f65af01838</string>
+</dict>
+</plist>

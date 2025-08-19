@@ -26,7 +26,7 @@ class MapSelectionScreenController extends GetxController {
 
   Future initials() async {
     _places = GoogleMapsPlaces(
-      apiKey: "AIzaSyCuMVghUcokPMJK7Z9t3OKLKfsijIQGUNI",
+      apiKey: "",
       apiHeaders: await const GoogleApiHeaders().getHeaders(),
     );
   }
